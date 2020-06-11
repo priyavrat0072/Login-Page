@@ -7,7 +7,7 @@ body{
 
 }
 
-div{
+.loginbox{
 	border-radius: 40px;
 	border: solid;
 	border-width: 5px;	
@@ -101,5 +101,15 @@ h1
 	0 0 5px #ff0009,
 	0 0 10px #ff0009,
 	0 0 20px #ff0009;
+
+}
+
+div
+{
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	color: black;
+	font-weight: bold;
 
 }
